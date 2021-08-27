@@ -18,8 +18,9 @@
 - Multiplayer game
 
 #### Wire Frames
-![welcome](https://media.git.generalassemb.ly/user/38079/files/49ab8700-0649-11ec-99f6-b40145e836a0)
+![welcome](https://media.git.generalassemb.ly/user/38079/files/b888e000-0649-11ec-9174-c1f739da9ee9)
 
 ![play](https://media.git.generalassemb.ly/user/38079/files/752e7180-0649-11ec-937b-91e4009784cc)
 
-![score](https://media.git.generalassemb.ly/user/38079/files/b888e000-0649-11ec-9174-c1f739da9ee9)
+
+![score](https://media.git.generalassemb.ly/user/38079/files/49ab8700-0649-11ec-99f6-b40145e836a0)
